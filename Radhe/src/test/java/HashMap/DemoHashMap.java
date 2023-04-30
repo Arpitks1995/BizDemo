@@ -6,6 +6,8 @@ public class DemoHashMap {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Radhe");
+		System.out.println("Radhe Radhe");
 		
 		HashMap h=new HashMap();
 		h.put(101, "Arun");
